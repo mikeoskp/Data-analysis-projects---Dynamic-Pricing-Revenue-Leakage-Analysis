@@ -11,7 +11,7 @@ Analyze pricing inefficiencies and revenue leakage caused by static pricing and 
 - Power BI (Visualization Layer – optional)
 
 ## 📊 Dataset
-Synthetic e-commerce transaction data containing:
+E-commerce transaction data containing:
 - Pricing details
 - Discounts
 - Demand levels
@@ -33,4 +33,4 @@ Synthetic e-commerce transaction data containing:
 This project demonstrates real-world pricing analytics, SQL proficiency, and business-focused decision-making.
 
 ## 👨‍💻 Author
-Saurabh Choudhary
+Mike
